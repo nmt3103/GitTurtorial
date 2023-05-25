@@ -10,5 +10,7 @@ class MainActivity : AppCompatActivity() {
 
         println("First commit in master branch")
         println("First commit in developer 1")
+
+        println("second commit in developer 1 but in developer branch not in master branch")
     }
 }
