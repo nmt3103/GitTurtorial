@@ -13,5 +13,6 @@ class MainActivity : AppCompatActivity() {
 
         println("second commit in developer 1 but in developer branch not in master branch")
         println("developer 1 done job and want to merger with the master branch")
+        println("developer 1 merge master branch success and want to update master branch")
     }
 }
